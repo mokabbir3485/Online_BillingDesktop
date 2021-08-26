@@ -1,0 +1,10 @@
+
+Bill No: 5504
+Time: 13:03:10
+Date: 08-04-2017
+Total Cost of Items: 1405.00
+Total Cost of Labour: 400.00
+Total Cost of Truck: 500.00
+Sub Total: 2305.00
+Vat/Tax: 210.75
+Total Amount: 2515.75
